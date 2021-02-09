@@ -1,4 +1,4 @@
-// fichero js/controlador.js
+//fichero js/controlador.js
 
 /**
  * Biblioteca "casera" para hacer el "binding" del
